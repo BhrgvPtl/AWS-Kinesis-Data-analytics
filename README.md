@@ -1,5 +1,5 @@
 # AWS-Kinesis-Data-analytics
-
+ 
 ## Aim:
 To connect Amazon Managed Service for Apache Flink Studio to your existing stream, clean, aggregate, and enrich the incoming events, and derive insights finally persisted in Amazon OpenSearch, where they can be accessed and visualized.
 
